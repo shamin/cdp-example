@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node index.js",
+    "serve": "serve public -l 5000"
+  },
+  "dependencies": {
+    "chrome-remote-interface": "^0.32.1",
+    "serve": "^14.2.0"
+  }
+}
